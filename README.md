@@ -1,2 +1,2 @@
 # avata-demos
-Avata OPEN API 调多语言示例代码
+Avata OPEN API 客户端多语言示例代码
